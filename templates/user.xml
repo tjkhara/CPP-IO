@@ -1,0 +1,22 @@
+<templateSet group="user">
+  <template name="md" value="/*********************************************************************&#10;** Program name:&#10;** Author: Tajeshwar Singh Khara&#10;** Date: $DATE$&#10;** Description:&#10;*********************************************************************/" description="Main file description" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="fd" value="/****************************************************************************&#10;** Author: Tajeshwar Singh Khara&#10;** Date: $DATE$&#10;** Description: Function called   &#10;** &#10;** &#10;** &#10;** &#10;******************************************************************************/" description="Function comment description" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="bp" value="#include &lt;iostream&gt;&#10;#include &lt;iomanip&gt;&#10;#include &lt;string&gt;&#10;&#10;using std::cout;&#10;using std::cin;&#10;using std::endl;&#10;using std::string;&#10;&#10;int main() {&#10;&#10;&#9;cout &lt;&lt; &quot;Hello, World!&quot; &lt;&lt; endl;&#10;&#9;return 0;&#10;}" description="Sandbox boilerplate" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>

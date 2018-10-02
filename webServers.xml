@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe273504-2378-4d35-ab18-61b891c77222" name="access.engr.oregonstate.edu" url="http://access.engr.oregonstate.edu">
+        <fileTransfer host="access.engr.oregonstate.edu" port="22" rootFolder="/nfs/stak/users/kharat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

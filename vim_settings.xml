@@ -1,0 +1,76 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/sandbox/cs162/lab1/ReadMatrix.cpp" timestamp="1537611534232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/sandbox/cs162/lab1/ReadMatrix.h" timestamp="1537611741833">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/sandbox/makefile_test/makefile" timestamp="1537597954295">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/trivialTest/main.cpp" timestamp="1537424750425">
+        <mark key="[" line="3" column="4" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>class ReadMatrix {
+private:
+
+public:
+	// Prototype
+	// Change the array dimensions in the prototype</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>v</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUYWplc2h3YXIgS2hhcmEgb24gMjItMDktMjAxOC4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQvLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KioK</text>
+      </register>
+      <register name="-" type="4">
+        <text>v</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
