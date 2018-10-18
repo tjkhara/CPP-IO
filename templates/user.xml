@@ -19,4 +19,9 @@
       <option name="OC_DECLARATION_CPP" value="true" />
     </context>
   </template>
+  <template name="forl" value="for(size_t i = 0; i &lt; ; i++)&#10;{&#10;&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
