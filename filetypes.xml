@@ -4,6 +4,7 @@
       <mapping pattern="Info" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore." type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
