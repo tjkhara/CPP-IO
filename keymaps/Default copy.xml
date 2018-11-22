@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Git.Unstash">
+    <mouse-shortcut keystroke="control button1 doubleClick" />
+  </action>
+</keymap>
